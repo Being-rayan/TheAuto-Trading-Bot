@@ -6,10 +6,6 @@ TheAuto is a Windows automation project built to demonstrate visible desktop aut
 
 🎥 Automation Preview: The system opens the Groww app automatically from Windows search and prepares the desktop workflow for the next automation steps.
 
-> Add your uploaded video here:
->
-> `![TheAuto Demo](./your-video-file.mp4)`
-
 ## What This Project Shows
 
 The current preview demonstrates the first working step of TheAuto: launching Groww through visible Windows automation. The goal is to build the system step by step so every action can be seen on screen, checked manually, and improved safely before moving toward advanced trading support.
